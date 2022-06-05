@@ -89,8 +89,8 @@ nav a:hover {
 
 .book,
 .join {
-    background-color: #fcfbfb;
-    color: black;
+    background-color: aliceblue;
+    color: blueviolet;
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
@@ -111,7 +111,7 @@ nav a:hover {
 
 .msg {
     background-color: aliceblue;
-    color: black;
+    color: blueviolet;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
