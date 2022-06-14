@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242.222" height="128.055" viewBox="0 0 242.222 128.055">
+    <defs>
+        <style>
+            .cls-1{fill:#ffc429}.cls-2{fill:#58595b}
+        </style>
+    </defs>
+    <g id="Icon_Online" transform="translate(-1 -8.07)">
+        <circle id="Ellipse_40" cx="17.359" cy="17.359" r="17.359" class="cls-1" data-name="Ellipse 40" transform="translate(104.752 25.671)"/>
+        <path id="Path_1158" d="M10.58 58.851a43.761 43.761 0 1 1 87.523 0z" class="cls-1" data-name="Path 1158" transform="translate(67.77 49.66)"/>
+        <path id="Path_1159" d="M174.221 112.952H10.156a4.925 4.925 0 0 1-4.925-5.006V13a4.925 4.925 0 0 1 4.925-4.93h164.065a4.925 4.925 0 0 1 4.925 4.93v94.951a4.925 4.925 0 0 1-4.925 5.006zm-159.14-9.931H169.3V17.92H15.081z" class="cls-2" data-name="Path 1159" transform="translate(29.923)"/>
+        <path id="Path_1160" d="M238.3 32.56H5.925a4.925 4.925 0 0 1 0-9.85H238.3a4.925 4.925 0 1 1 0 9.85z" class="cls-2" data-name="Path 1160" transform="translate(0 103.564)"/>
+    </g>
+</svg>

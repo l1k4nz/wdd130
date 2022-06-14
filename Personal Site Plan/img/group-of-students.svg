@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_of_Students" width="122.552" height="76.023" data-name="Group of Students" viewBox="0 0 122.552 76.023">
+    <defs>
+        <style>
+            .cls-1{fill:#3692ab}.cls-2{fill:#ffc429}
+        </style>
+    </defs>
+    <ellipse id="Ellipse_41" cx="10.253" cy="10.253" class="cls-1" data-name="Ellipse 41" rx="10.253" ry="10.253" transform="translate(15.605 13.562)"/>
+    <ellipse id="Ellipse_42" cx="10.253" cy="10.253" class="cls-1" data-name="Ellipse 42" rx="10.253" ry="10.253" transform="translate(86.44 13.562)"/>
+    <ellipse id="Ellipse_43" cx="15.932" cy="15.932" class="cls-2" data-name="Ellipse 43" rx="15.932" ry="15.932" transform="translate(45.14)"/>
+    <path id="Path_2126" d="M6.11 55.917a40.2 40.2 0 0 1 80.394 0z" class="cls-2" data-name="Path 2126" transform="translate(14.765 20.106)"/>
+    <path id="Path_2127" d="M35.846 17.544a25.246 25.246 0 0 0-8.987-1.634A25.858 25.858 0 0 0 1 41.768h17.076a46.243 46.243 0 0 1 17.77-24.224z" class="cls-1" data-name="Path 2127" transform="translate(-1 20.692)"/>
+    <path id="Path_2128" d="M40.017 41.768H57.5A25.858 25.858 0 0 0 31.642 15.91a25.572 25.572 0 0 0-9.232 1.716 46.284 46.284 0 0 1 17.607 24.142z" class="cls-1" data-name="Path 2128" transform="translate(65.051 20.692)"/>
+</svg>
