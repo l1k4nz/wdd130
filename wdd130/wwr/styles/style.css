@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Tapestry&display=swap');
+
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+#logo_link{
+    padding-top: 5px;
+}
+nav a{
+    text-align: center;
+    color: darkred;
+    text-decoration: none;
+    padding: 35px;
+}
+nav a:hover {
+    background-color: black;
+    color: aliceblue;
+}
+#hero-msg h1{
+    text-align: center;
+}
+#hero-msg h4{
+    text-align: center;
+}
+
+.button-box{
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
+main section img{
+    box-sizing: border-box;
+}
+
+#background{
+    height: 725px;
+    background-color:rgba(20,30,13, .7);
+    text-align: center;
+    color: antiquewhite;
+}
+
+#otherdiv{
+    background-color: #48639c;
+    text-align: center;
+    color: antiquewhite;
+}
+
+body {
+    background-color: #fcfbfb; 
+    font-family: Abel, Tahoma, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #48639c;
+}
+
+.book, .join{
+    background-color: aliceblue;
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.book:hover{
+    background-color: black;
+    color: antiquewhite;
+}
+.join:hover{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.home-title{
+    font-family: Impact, Abel, 'Arial Narrow Bold', sans-serif;
+    color: #48639c;
+    font-size: 2em;
+    margin-top: 10px;
+}
+h2{
+    margin: 0;
+}
+h4{
+    color: green;
+}
+.msg{
+    background-color: blanchedalmond;
+    line-height: 1.5em;
+    padding: 35px;
+}
+.msg h2{
+    color: blueviolet;
+}
+.msg p{
+    color: blueviolet;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+footer{
+    background-color: #48639c;
+    padding: 25px 50px;
+}
+footer h3 a{
+    color: #ebdccb;
+}
+footer h3{
+    color: #ebdccb;
+}
+footer a:hover{
+    color: blueviolet;
+}
+footer a{
+    text-decoration: none;
+}
+footer .social img{
+    padding-top: 15px;
+}
+.icon{
+    width: 80px;
+    padding-top: 10px;
+}
+.logo{
+    width: 80px;
+}
+#hero-img{
+    width: 100%;
+}
+footer h3 a:hover{
+    text-decoration: underline;
+}
+.button-box{
+    align-self: center;
+}
+.card-img{
+    border: 10px black solid;
+}
