@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <link href="forms.css" rel="stylesheet"> 
+
+
+<head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+
+    <div id="feedback"></div>
+
+
+    <form>
+<h1>Payment Form</h1>
+<p>Required fields are followed by <strong><abbr title="required">*</abbr></strong>.</p>
+
+<section>
+    <h2>Contact information</h2>
+    <p>
+      <label for="name">
+        <span>Name: </span>
+        <strong><abbr title="required">*</abbr></strong>
+      </label>
+      <input type="text" id="name" name="username">
+    </p>
+    <p>
+      <label for="pwd">
+        <span>Password: </span>
+        <strong><abbr title="required">*</abbr></strong>
+      </label>
+      <input type="text" id="pwd" name="password">
+    </p>
+</section>
+
+    <p> <button type="submit">Validate the payment</button> </p>
+
+</form>
+
+
+<script>
+
+document.getElementById('name').innerText = document.getElementById('pwd').innerText;
+
+    // get the feedback div element so we can do something with it.
+   
+  </script>
+</body>
+</html>
