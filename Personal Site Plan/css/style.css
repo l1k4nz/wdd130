@@ -194,11 +194,11 @@ header {
 nav {
     margin: auto;
     border-style: groove;
-    background-color: #5FB49C;
+    background-color: #cbef43;
     line-height: 3em;
     font-size: 1.2em;
     display: grid;
-    justify-content: left;
+    justify-content: center;
 }
 
 
