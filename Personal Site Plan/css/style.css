@@ -263,7 +263,7 @@ p {
 }
 
 .btn {
-    border: 4px solid black;
+    border: 4px solid white;
     background-color: lightgrey;
     color: white;
     padding: .3rem;
@@ -285,7 +285,7 @@ p {
 }
 
 .faqpage h3 {
-    color: whitesmoke;
+    color: white;
 }
 
 .schedule a {
@@ -301,7 +301,7 @@ p {
 }
 
 .credentialspage h3 {
-    border-bottom: 1px #666666 solid;
+    border-bottom: 1px white solid;
 }
 .faqpage img,
 .schedule img,
