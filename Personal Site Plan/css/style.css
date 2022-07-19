@@ -98,7 +98,7 @@ h1 {
 }
 
 a {
-    color: yellow;
+    color: black;
 }
 
 .home-right-img {
@@ -154,7 +154,7 @@ a {
 
 .heading {
     display: flex;
-    background-color: whitesmoke;
+    background-color: eddfef;
     flex-direction: column;
 }
 
@@ -162,7 +162,7 @@ a {
 h2 {
     font-family: 'Nunito', sans-serif;
     font-size: 2rem;
-    color: whitesmoke;
+    color: eddfef;
     border-top: 5px double;
     border-bottom: 5px double;
     margin: 0;
@@ -241,7 +241,7 @@ p {
     grid-gap: 10px;
     grid-template-columns: 70% auto auto auto;
     text-align: right;
-    border: 3px solid green;
+    border: 3px solid cbef43;
     align-items: center;
 }
 
