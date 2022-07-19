@@ -229,7 +229,7 @@ nav a:hover {
 
 p {
     font-family: 'Nunito';
-    color: white;
+    color: black;
     padding: 1em
 }
 
@@ -241,7 +241,7 @@ p {
     grid-gap: 10px;
     grid-template-columns: 70% auto auto auto;
     text-align: right;
-    border: 3px solid cbef43;
+    border: 3px solid black;
     align-items: center;
 }
 
@@ -253,7 +253,7 @@ p {
 
 .action {
     grid-area: 1/1/2/2;
-    background-color: #F2F2F2;
+    background-color: black;
     opacity: 0.5;
     height: 150px;
     width: 150px;
