@@ -33,12 +33,12 @@ footer {
 }
 
 p {
-    font-family: 'Patrick Hand', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 1rem;
 }
 
 h1 {
-    font-family: 'Patrick Hand', 'Nunito', sans-serif;
+    font-family: 'Nunito', 'Nunito', sans-serif;
     color: black;
     font-style: italic;
     font-size: 2.4rem;
@@ -66,7 +66,7 @@ h1 {
 .banner-box img {
     background-color: #5FB49C;
     display: grid;
-    font-family: "Patrick Hand";
+    font-family: "Nunito";
     grid-template-columns: 1fr 1fr 2fr 3fr;
     width: 100%;
     margin: 0 auto;
