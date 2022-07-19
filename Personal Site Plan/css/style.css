@@ -2,10 +2,10 @@
 
 
 :root {
-    --primary-color: #459ACC;
-    --secondary-color: #cc7645;
-    --accent-color: #9acc45;
-    --accent2-color: #7645cc;
+    --primary-color: #3A5743;
+    --secondary-color: #5FB49C;
+    --accent-color: #CBEF43;
+    --accent2-color: #EDDFEF;
 
 }
 
@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
     align-items: center;
     font-size: 16px;
-    background-color: #459ACC;
+    background-color: #3A5743;
     max-width:960px;
 }
 
@@ -64,7 +64,7 @@ h1 {
 }
 
 .banner-box img {
-    background-color: #cc7645;
+    background-color: #5FB49C;
     display: grid;
     font-family: "Nunito";
     grid-template-columns: 1fr 1fr 2fr 3fr;
@@ -194,7 +194,7 @@ header {
 nav {
     margin: auto;
     border-style: groove;
-    background-color: #cc7645;
+    background-color: #5FB49C;
     line-height: 3em;
     font-size: 1.2em;
     display: grid;
